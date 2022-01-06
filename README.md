@@ -1,4 +1,4 @@
-# Chrome Data Analysis
+# Chrome Webtime Data Analysis
 Jupyter notebook that intakes Google Chrome webtime data from [this chrome extension](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk) and using matplotlib, seaborn, and pandas to map trends and plot relationships between activities over time, identifying and presenting notable correlations.
 
 
